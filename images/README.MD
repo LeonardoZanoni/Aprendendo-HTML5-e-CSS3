@@ -6,7 +6,7 @@
 
 - Projeto desafio do evento Next Level Week
 
-[Clique aqui para acessar](https://leonardozanoni.github.io/Desafio-NLW/)
+[Clique aqui para acessar](https://leonardozanoni.github.io/Aprendendo-HTML5-e-CSS3/)
 
 ## Tecnologias
 
